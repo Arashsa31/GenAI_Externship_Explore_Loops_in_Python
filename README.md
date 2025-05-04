@@ -1,1 +1,1 @@
-# GenAI_Externship_Explore_Loops_in_Python
+This project explores the power of loops in Python through three tasks: a countdown timer using a while loop, a multiplication table generator, and a factorial calculator using for loops. Each program takes user input and applies control flow to solve practical problems interactively.
